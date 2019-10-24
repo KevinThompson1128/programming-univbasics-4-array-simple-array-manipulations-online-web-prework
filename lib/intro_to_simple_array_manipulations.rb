@@ -29,7 +29,7 @@ def using_concat(array1, array2)
 end
 
 def using_insert(array, string)
-  array.insert()
+  array.insert(3)
 end
 
 def using_uniq(array)
