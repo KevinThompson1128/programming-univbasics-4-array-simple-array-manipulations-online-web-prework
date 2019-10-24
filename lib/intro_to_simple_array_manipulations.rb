@@ -29,9 +29,7 @@ def using_concat(array1, array2)
 end
 
 def using_insert(array, string)
-  list_of_programming_languages = "Ruby", "JavaScript", "Java", "C#", "Objective C", "C++", "PHP"
-  another_language = "Python"
-  list_of_programming_languages.insert(3, "Python")
+  array.insert()
 end
 
 def using_uniq(array)
